@@ -190,7 +190,7 @@ SERVICES SECTION
 }
 
 .services .icon {
-  font-size: 50px;
+  font-size: 75px;
   text-align: center;
   color: #262626;
 }
@@ -252,6 +252,10 @@ p.social a.gplus {
 
 p.social a.github {
   background-color: #aaa;
+}
+
+p.social a.email:hover {
+  background-color: #999;
 }
 
 p.social a.instagram {
