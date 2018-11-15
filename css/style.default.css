@@ -254,6 +254,10 @@ p.social a.github {
   background-color: #aaa;
 }
 
+p.social a.email:hover {
+  background-color: #999;
+}
+
 p.social a.instagram {
   background-color: #999;
 }
