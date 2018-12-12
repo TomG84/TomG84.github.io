@@ -53,12 +53,12 @@
 /* general styles */
 /* ============== */
 .set-border {
-  border: 5px inset #4f4f4f;
+  border: 5px inset #dee2e6;
 }
 .set-box-shadow {
-  -webkit-box-shadow: 4px 4px 14px #4f4f4f;
-  -moz-box-shadow: 4px 4px 14px #4f4f4f;
-  box-shadow: 4px 4px 14px #4f4f4f;
+  -webkit-box-shadow: 4px 4px 14px #dee2e6;
+  -moz-box-shadow: 4px 4px 14px #dee2e6;
+  box-shadow: 4px 4px 14px #dee2e6;
 }
 .set-padding {
   padding: 40px;
